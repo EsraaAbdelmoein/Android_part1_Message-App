@@ -43,7 +43,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         } else if (message.equalsIgnoreCase("yellow")) {
             root.setBackgroundColor(Color.YELLOW);
         } else if (message.equalsIgnoreCase("magenta")) {
-            root.setBackgroundColor(Color.Purple);
+            root.setBackgroundColor(Color.MAGENTA);
         } else {
             root.setBackgroundColor(Color.WHITE); 
         }
